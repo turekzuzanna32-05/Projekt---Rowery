@@ -32,15 +32,10 @@ Analiza profilu klientów kupujących rowery w celu identyfikacji kluczowych czy
 ---
 
 ### BIBLIOTEKI WYKORZYSTANE W PROJEKCIE
-
-### Podstawowe
 - import pandas as pd
 - import numpy as np
-
-###  Wizualizacja
 - import matplotlib.pyplot as plt
 - import seaborn as sns
+- import skimpy as skim
 
-### Czyszczenie danych
-- import missingno as msno
 ---
