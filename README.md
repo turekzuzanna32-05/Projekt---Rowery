@@ -1,4 +1,4 @@
-# Projekt -> Analiza danych klientów sklepu rowerowego 🚲
+# Projekt -> Analiza danych klientów sklepu rowerowego
 
 ## Autorzy:
 - Natalia Matynka s206132
