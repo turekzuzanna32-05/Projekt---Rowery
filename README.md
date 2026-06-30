@@ -10,6 +10,7 @@
 2. [Wizualizacja](2.%20Wizualizacja.html)
 3. [Analiza opisowa](3.%20Analiza%20opisowa.html)
 4. [Wnioski](4.%20Wnioski.html)
+
 ### Przedmiot:
 Analiza i Wizualizacja Danych w Pythonie
 
